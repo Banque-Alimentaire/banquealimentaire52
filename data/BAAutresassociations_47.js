@@ -1,6 +1,6 @@
-var json_BAAutresassociations_48 = {
+var json_BAAutresassociations_47 = {
 "type": "FeatureCollection",
-"name": "BAAutresassociations_48",
+"name": "BAAutresassociations_47",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Libellé": "A.R.I.T", "CP": "52100", "Ville": "SAINT DIZIER", "Full Addre": "22 rue Paul Bert 52100 SAINT DIZIER" }, "geometry": { "type": "Point", "coordinates": [ 4.9550708, 48.629921499999988 ] } },

@@ -1,6 +1,6 @@
-var json_CCAS_53 = {
+var json_CCAS_52 = {
 "type": "FeatureCollection",
-"name": "CCAS_53",
+"name": "CCAS_52",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Libellé": "CCAS Ancerville", "CP": "55170", "Ville": "ANCERVILLE", "Full Addre": "Place de la Mairie 55170 ANCERVILLE" }, "geometry": { "type": "Point", "coordinates": [ 5.0197131, 48.6350831 ] } },

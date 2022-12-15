@@ -1,6 +1,6 @@
-var json_BASecourspopulaire_49 = {
+var json_BASecourspopulaire_48 = {
 "type": "FeatureCollection",
-"name": "BASecourspopulaire_49",
+"name": "BASecourspopulaire_48",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Libellé": "Secours Populaire VITRY", "CP": "51300", "Ville": "VITRY LE FRANCOIS", "Full Addre": "43 rue du 11 novembre 1918 51300 VITRY LE FRANCOIS" }, "geometry": { "type": "Point", "coordinates": [ 4.5882662, 48.716635 ] } },

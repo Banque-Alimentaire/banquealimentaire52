@@ -1,6 +1,6 @@
-var json_BACommunes_52 = {
+var json_BACommunes_51 = {
 "type": "FeatureCollection",
-"name": "BACommunes_52",
+"name": "BACommunes_51",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Libellé": "MAIRIE DE CHAMOUILLEY", "CP": "52410", "Ville": "CHAMOUILLEY", "Full Addre": "2 place de la mairie 52410 CHAMOUILLEY" }, "geometry": { "type": "Point", "coordinates": [ 5.0438376, 48.605879 ] } },

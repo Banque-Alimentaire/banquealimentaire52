@@ -1,6 +1,6 @@
-var json_AutresRDC_47 = {
+var json_AutresRDC_46 = {
 "type": "FeatureCollection",
-"name": "AutresRDC_47",
+"name": "AutresRDC_46",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Nom": "RDC", "Ville": "BAR LE DUC", "Adresse": "10 ter avenue du 94ème RI\n55000 BAR LE DUC" }, "geometry": { "type": "Point", "coordinates": [ 5.1695094, 48.7671222 ] } },

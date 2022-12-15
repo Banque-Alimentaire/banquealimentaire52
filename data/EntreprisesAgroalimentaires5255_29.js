@@ -1,6 +1,6 @@
-var json_EntreprisesAgroalimentaires5255_30 = {
+var json_EntreprisesAgroalimentaires5255_29 = {
 "type": "FeatureCollection",
-"name": "EntreprisesAgroalimentaires5255_30",
+"name": "EntreprisesAgroalimentaires5255_29",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Nom": "BONDUELLE FRAIS FRANCE", "Type produ": "Fruits, légumes", "Adressse": "Rte de Spada, 55300 Maizey", "Ville": "55300 Maizey", "Contact": "03 29 91 50 66", "Lien": null }, "geometry": { "type": "Point", "coordinates": [ 5.5291067, 48.9341204 ] } },

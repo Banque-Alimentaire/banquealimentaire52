@@ -1,6 +1,6 @@
-var json_BACroixRouge_51 = {
+var json_BACroixRouge_50 = {
 "type": "FeatureCollection",
-"name": "BACroixRouge_51",
+"name": "BACroixRouge_50",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Libellé": "Croix Rouge Commercy", "CP": "55200", "Ville": "COMMERCY", "Full Addre": "Site Montplaisir 55200 COMMERCY" }, "geometry": { "type": "Point", "coordinates": [ 5.586139, 48.7612225 ] } },

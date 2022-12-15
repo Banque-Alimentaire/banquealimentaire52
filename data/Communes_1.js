@@ -1,6 +1,6 @@
-var json_Communes_2 = {
+var json_Communes_1 = {
 "type": "FeatureCollection",
-"name": "Communes_2",
+"name": "Communes_1",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "codgeo": "51001", "dep": "51", "libgeo": "Ablancourt", "rsa_com cs": null, "ZRR cvs_ZO": "C - Commune class�e en ZRR", "ircom2020 - BA52 (final)_Pourcentage de foyers imposés": 49.0, "Communes densité_Libellé typologie": "Communes très peu denses", "part des ménages ayant 1 voiture (0 -75%) _field_3": null, "BA 52 - Monoparentalité_Nb de familles monoparentales 2019": 5.0, "BA 52 - Monoparentalité_Part des familles monoparentales 2019": "9,1" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 4.518704863298447, 48.801286979901171 ], [ 4.509421367045256, 48.805912536823612 ], [ 4.50241778797128, 48.807997143322112 ], [ 4.501368777798446, 48.812453842052335 ], [ 4.504881559597747, 48.815178815641005 ], [ 4.519642932165673, 48.820015187640223 ], [ 4.527754742628654, 48.82223016032237 ], [ 4.533316523804029, 48.824477314288359 ], [ 4.537559075555382, 48.821911288153416 ], [ 4.539041972551677, 48.822278602026834 ], [ 4.542474541273434, 48.818885628029761 ], [ 4.560675052726253, 48.807315100680015 ], [ 4.544655811666548, 48.803079600260496 ], [ 4.535253948877037, 48.796953944711845 ], [ 4.532580040417501, 48.796086664334894 ], [ 4.528492066711727, 48.797169420726973 ], [ 4.518704863298447, 48.801286979901171 ] ] ] ] } },

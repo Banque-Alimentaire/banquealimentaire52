@@ -1,6 +1,6 @@
-var json_BARestoducoeur_50 = {
+var json_BARestoducoeur_49 = {
 "type": "FeatureCollection",
-"name": "BARestoducoeur_50",
+"name": "BARestoducoeur_49",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Libellé": "Restaurant du Coeur St Dizier", "CP": "52000", "Ville": "SAINT DIZIER", "Full Addre": "4 Rue Edouard Chambre 52000 SAINT DIZIER" }, "geometry": { "type": "Point", "coordinates": [ 4.9412415, 48.641574 ] } },

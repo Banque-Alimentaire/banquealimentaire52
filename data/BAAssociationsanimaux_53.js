@@ -1,6 +1,6 @@
-var json_BAAssociationsanimaux_46 = {
+var json_BAAssociationsanimaux_53 = {
 "type": "FeatureCollection",
-"name": "BAAssociationsanimaux_46",
+"name": "BAAssociationsanimaux_53",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Libellé": "S.P.A", "CP": "52100", "Ville": "SAINT DIZIER", "Full Addre": "Chemin Argente Ligne 52100 SAINT DIZIER" }, "geometry": { "type": "Point", "coordinates": [ 4.9531389, 48.6207013 ] } },
